@@ -36,3 +36,13 @@ const pi = 3.1416;
 console.log(name);
 console.log(age);
 console.log(pi);
+
+{
+    let a = 10;
+    console.log(a);
+}
+
+{
+    let a = 9;
+    console.log(a);
+}
