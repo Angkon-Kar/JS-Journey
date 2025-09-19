@@ -56,6 +56,7 @@ On the other hand, ```const``` is used for variables that only get a value assig
     someConstant = 4; 
 
 This will result in the following output:
+
 ```Uncaught TypeError: Assignment to constant variable.```
 
 We will be using should use let in most of our examples—for now, trust us that you let in most cases.
