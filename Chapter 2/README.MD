@@ -45,12 +45,10 @@ A variable definition consists of three parts: a variable-defining keyword (```l
 
 ```let``` and ```var``` are both used for variables that might have a new value assigned to them somewhere in the program. The difference between ```let``` and ```var``` is complex. It is related to scope.
 
-```var``` has **global scope** and ```let``` has **block scope**. that you can use the variables defined with other hand, var 's global scope means var in the entire script On the let 's block scope means you can only use variables defined with 
-let in the specific block of code in which they were defined.
- Remember, a block of code will always start with 
-{ and end with 
-which is how you can recognize them.
- } ,
+```var``` has **global scope** and ```let``` has **block scope**. ```var```'s that you can use the variables defined with other hand, ```var```'s global scope means var in the entire script On the ```let```'s block scope means you can only use variables defined with ```let``` in the specific block of code in which they were defined.
+
+
+Remember, a block of code will always start with ```{``` and end with ```}``` , which is how you can recognize them.
 
 On the other hand, const is used for variables that only get a value assigned once—for example, the value of pi, which will not change. If you try reassigning a value declared with const , you will get an error:
     const someConstant = 3; 
