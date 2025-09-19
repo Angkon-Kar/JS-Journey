@@ -38,7 +38,9 @@ The use of variables coming from external sources instead of being hardcoded int
 We have just established how powerful the variable building block is in code. Right now, we are going to hardcode variables into our scripts, and they therefore will not vary until a coder changes the program. However, we will soon learn how to make our variables take in values from outside sources.
 
 ## let, var, and const:
+
 let , var , or A variable definition consists of three parts: a variable-defining keyword ( const ), a name, and a value. Let's start with the difference between let , var , or const . Here you can see some examples of variables using the different keywords:
+    
     let nr1 = 12; 
     var nr2 = 8; 
     const PI = 3.14159; 
