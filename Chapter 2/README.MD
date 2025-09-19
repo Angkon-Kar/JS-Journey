@@ -24,6 +24,7 @@ The first time you create a variable, you declare it. And you need a special wor
     let , var , or const . 
 
 We'll discuss the use of these three arguments shortly. The second time you call a variable, you only use the name of the existing variable to assign it a new value: 
+    
     let firstname = "Maria"; 
     firstname = "Jacky"; 
 
