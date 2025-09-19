@@ -28,12 +28,7 @@ firstname = "Jacky";
 
 
 In our examples, we will be assigning a value to our variables in the code.
-
-This is called "hardcoded" since the value of your variable is defined in
- your script instead of coming dynamically from some external input. This is
- something you won't be doing that often in actual code, as more commonly
- the value comes from an external source, such as an input box on a website
- that a user filled out, a database, or some other code that calls your code.
+This is called "hardcoded" since the value of your variable is defined in your script instead of coming dynamically from some external input. This is something you won't be doing that often in actual code, as more commonly the value comes from an external source, such as an input box on a website that a user filled out, a database, or some other code that calls your code.
 
 
 The use of variables coming from external sources instead of being hardcoded into a script is actually the reason that scripts are adaptable to new information, without having to rewrite the code.
