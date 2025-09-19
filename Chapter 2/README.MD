@@ -19,9 +19,7 @@ Without variables, a piece of code would do the exact same thing every single ti
 
 # Declaring variables
 
-The first time you create a variable, you declare it. And you need a special word for that: 
-    
-    let , var , or const . 
+The first time you create a variable, you declare it. And you need a special word for that: ``` let , var , or const ``` 
 
 We'll discuss the use of these three arguments shortly. The second time you call a variable, you only use the name of the existing variable to assign it a new value: 
     
@@ -47,14 +45,7 @@ let , var , or A variable definition consists of three parts: a variable-definin
 
 let and var are both used for variables that might have a new value assigned to them somewhere in the program. The difference between and var is complex. It is related to scope.
 
-var has global scope and 
-let has block scope. 
-that you can use the variables defined with 
-other hand, 
-var 's global scope means
- var in the entire script. On the
- let 's block scope means you can only use variables defined
- with 
+var has global scope and let has block scope. that you can use the variables defined with other hand, var 's global scope means var in the entire script On the let 's block scope means you can only use variables defined with 
 let in the specific block of code in which they were defined.
  Remember, a block of code will always start with 
 { and end with 
