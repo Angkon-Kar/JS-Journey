@@ -5,11 +5,11 @@ Variables are the first building block you will be introduced to when learning m
 
 Here is an example of two variables in a script:
  
-firstname = "Maaike"; 
-x = 2; 
+    firstname = "Maaike"; 
+    x = 2; 
 And they can be assigned a new value while the code is running:
- firstname = "Edward"; 
-x = 7; 
+    firstname = "Edward"; 
+    x = 7; 
 
 Without variables, a piece of code would do the exact same thing every single time it was run. Even though that could still be helpful in some cases, it can be made much more powerful by working with variables to allow our code to do something different every time we run it.
 
@@ -23,8 +23,8 @@ The first time you create a variable, you declare it. And you need a special wor
 let , var , or const . 
 
 We'll discuss the use of these three arguments shortly. The second time you call a variable, you only use the name of the existing variable to assign it a new value: 
-let firstname = "Maria"; 
-firstname = "Jacky"; 
+    let firstname = "Maria"; 
+    firstname = "Jacky"; 
 
 
 In our examples, we will be assigning a value to our variables in the code.
@@ -39,9 +39,9 @@ let, var, and const:
 let , var , or A variable definition consists of three parts: a variable-defining keyword
  ( const ), a name, and a value. Let's start with the difference between 
 let , var , or const . Here you can see some examples of variables using the different keywords:
- let nr1 = 12; 
-var nr2 = 8; 
-const PI = 3.14159; 
+    let nr1 = 12; 
+    var nr2 = 8; 
+    const PI = 3.14159; 
 let and var are both used for variables that might have a new value assigned to them somewhere in the program. The difference between and var is complex. It is related to scope.
 */
 
