@@ -56,15 +56,14 @@ let in the specific block of code in which they were defined.
 { and end with 
 which is how you can recognize them.
  } ,
-On the other hand, 
-const is used for variables that only get a value
- assigned once—for example, the value of pi, which will not change. If you
- try reassigning a value declared with 
-const , you will get an error:
+
+On the other hand, const is used for variables that only get a value assigned once—for example, the value of pi, which will not change. If you try reassigning a value declared with const , you will get an error:
     const someConstant = 3; 
     someConstant = 4; 
+
 This will result in the following output:
     Uncaught TypeError: Assignment to constant variable. 
+
 We will be using should use let in most of our examples—for now, trust us that you let in most cases.
 
 
