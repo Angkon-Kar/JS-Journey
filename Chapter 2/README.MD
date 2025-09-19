@@ -37,7 +37,7 @@ We have just established how powerful the variable building block is in code. Ri
 
 ## let, var, and const:
 
-let , var , or A variable definition consists of three parts: a variable-defining keyword ( const ), a name, and a value. Let's start with the difference between let , var , or const . Here you can see some examples of variables using the different keywords:
+A variable definition consists of three parts: a variable-defining keyword (``` let ```,``` var ```,or ``` const``` ), a name, and a value. Let's start with the difference between ``` let``` ,``` var ```, or``` const``` . Here you can see some examples of variables using the different keywords:
     
     let nr1 = 12; 
     var nr2 = 8; 
