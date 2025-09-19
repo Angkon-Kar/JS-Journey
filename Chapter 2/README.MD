@@ -19,7 +19,7 @@ Without variables, a piece of code would do the exact same thing every single ti
 
 # Declaring variables
 
-The first time you create a variable, you declare it. And you need a special word for that: ``` let , var , or const ``` 
+The first time you create a variable, you declare it. And you need a special word for that: ``` let ```,``` var ```, or ``` const ``` 
 
 We'll discuss the use of these three arguments shortly. The second time you call a variable, you only use the name of the existing variable to assign it a new value: 
     
