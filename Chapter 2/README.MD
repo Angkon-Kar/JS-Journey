@@ -43,7 +43,7 @@ A variable definition consists of three parts: a variable-defining keyword (```l
     var nr2 = 8; 
     const PI = 3.14159; 
 
-let and var are both used for variables that might have a new value assigned to them somewhere in the program. The difference between and var is complex. It is related to scope.
+```let``` and ```var``` are both used for variables that might have a new value assigned to them somewhere in the program. The difference between ```let``` and ```var``` is complex. It is related to scope.
 
 var has global scope and let has block scope. that you can use the variables defined with other hand, var 's global scope means var in the entire script On the let 's block scope means you can only use variables defined with 
 let in the specific block of code in which they were defined.
