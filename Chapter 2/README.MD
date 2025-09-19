@@ -7,6 +7,7 @@ Here is an example of two variables in a script:
     firstname = "Maaike"; 
     x = 2; 
 And they can be assigned a new value while the code is running:
+    
     firstname = "Edward"; 
     x = 7; 
 
