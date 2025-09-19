@@ -62,7 +62,7 @@ We will be using should use let in most of our examples—for now, trust us that
 
 
 
-Naming variables
+# Naming variables
 
 When it comes to naming variables, there are some conventions in place: 
     Variables start with a lowercase letter, and they should be descriptive. If something holds an age, do not call it x , but age . This way, when you read your script later, you can easily understand what you did by just reading your code.
