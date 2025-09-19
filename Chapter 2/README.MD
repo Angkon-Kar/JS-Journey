@@ -3,16 +3,13 @@
 Variables are the first building block you will be introduced to when learning most languages. Variables are values in your code that can represent different values each time the code runs.
 
 Here is an example of two variables in a script:
-    ```
+    
     firstname = "Maaike"; 
-    x = 2;
-    ``` 
+    x = 2; 
 And they can be assigned a new value while the code is running:
-    ```
     firstname = "Edward"; 
     x = 7; 
-    ```
-    
+
 Without variables, a piece of code would do the exact same thing every single time it was run. Even though that could still be helpful in some cases, it can be made much more powerful by working with variables to allow our code to do something different every time we run it.
 
 
