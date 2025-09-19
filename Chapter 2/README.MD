@@ -50,7 +50,7 @@ A variable definition consists of three parts: a variable-defining keyword (```l
 
 Remember, a block of code will always start with ```{``` and end with ```}``` , which is how you can recognize them.
 
-On the other hand, const is used for variables that only get a value assigned once—for example, the value of pi, which will not change. If you try reassigning a value declared with const , you will get an error:
+On the other hand, ```const``` is used for variables that only get a value assigned once—for example, the value of pi, which will not change. If you try reassigning a value declared with const , you will get an error:
     const someConstant = 3; 
     someConstant = 4; 
 
