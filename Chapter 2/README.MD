@@ -1,4 +1,4 @@
-Variables in JavaScript:
+## Variables in JavaScript:
 
 Variables are the first building block you will be introduced to when learning most languages. Variables are values in your code that can represent different values each time the code runs.
 
