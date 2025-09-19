@@ -71,5 +71,8 @@ When it comes to naming variables, there are some conventions in place:
     
 ```Variables cannot contain spaces, but they can use underscores. If you use a space, JavaScript doesn't recognize it as a single variable.```
 
+```We will be using camel case here. This means that when we want to use multiple words to describe a variable, we will start with a lowercase word, then use a capital for every new word after the first word—for example: ageOfBuyer .```
+
+```Whatever the convention is in the place you are working, the key is consistency. If all naming is done in a similar format, the code will look cleaner and more readable, which makes it a lot easier to make a small change later.```
 
 The value of your variable can be anything. Let's start with the easiest thing variables can be: primitives.
