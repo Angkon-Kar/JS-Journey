@@ -8,9 +8,11 @@ Here is an example of two variables in a script:
     x = 2;
     ``` 
 And they can be assigned a new value while the code is running:
+    ```
     firstname = "Edward"; 
     x = 7; 
-
+    ```
+    
 Without variables, a piece of code would do the exact same thing every single time it was run. Even though that could still be helpful in some cases, it can be made much more powerful by working with variables to allow our code to do something different every time we run it.
 
 
