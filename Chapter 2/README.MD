@@ -44,8 +44,8 @@ let , var , or A variable definition consists of three parts: a variable-definin
     let nr1 = 12; 
     var nr2 = 8; 
     const PI = 3.14159; 
-let and var are both used for variables that might have a new value assigned to them somewhere in the program. The difference between and var is complex. It is related to scope.
 
+let and var are both used for variables that might have a new value assigned to them somewhere in the program. The difference between and var is complex. It is related to scope.
 
 var has global scope and 
 let has block scope. 
