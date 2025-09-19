@@ -1,3 +1,13 @@
+/*
+
+
+
+*/
+
+
+
+
+
 // Variable declaration and data types
 let name = "John"; // String
 const age = 30; // Number (constant)
