@@ -17,7 +17,7 @@ Without variables, a piece of code would do the exact same thing every single ti
 
 
 
-Declaring variables
+# Declaring variables
 
 The first time you create a variable, you declare it. And you need a special word for that: 
 let , var , or const . 
